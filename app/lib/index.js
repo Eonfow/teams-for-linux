@@ -20,7 +20,7 @@ app.on('ready', () => {
     height: 600,
     iconPath,
     autoHideMenuBar: true,
-
+    icon: iconPath,
     webPreferences: {
       partition: 'persist:teams',
       preload: path.join(__dirname, 'browser', 'index.js'),
