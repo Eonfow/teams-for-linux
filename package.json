@@ -17,7 +17,8 @@
     "start": "electron ./app",
     "start-debug": "WEB_DEBUG=1 electron --disable-http-cache ./app",
     "pack": "build --dir",
-    "dist": "build"
+    "dist": "build",
+    "postinstall": "(cd app; npm install)"
   },
   "devDependencies": {
     "electron": "^1.4.15",
