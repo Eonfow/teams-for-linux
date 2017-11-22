@@ -1,5 +1,5 @@
 {
-  "name": "teams-for-linux",
+  "name": "tinder",
   "version": "0.0.4",
   "description": "Microsoft Teams for Linux",
   "main": "lib/index.js",
