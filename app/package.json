@@ -1,6 +1,6 @@
 {
   "name": "tinder",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Microsoft Teams for Linux",
   "main": "lib/index.js",
   "author": "Ivelin Velkov <ivelin.velkov@gmail.com>",
